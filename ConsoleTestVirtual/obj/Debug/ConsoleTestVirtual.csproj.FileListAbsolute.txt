@@ -1,0 +1,7 @@
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\bin\Debug\ConsoleTestVirtual.exe.config
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\bin\Debug\ConsoleTestVirtual.exe
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\bin\Debug\ConsoleTestVirtual.pdb
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\obj\Debug\ConsoleTestVirtual.csprojResolveAssemblyReference.cache
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\obj\Debug\ConsoleTestVirtual.csproj.CoreCompileInputs.cache
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\obj\Debug\ConsoleTestVirtual.exe
+c:\users\ben\source\repos\ConsoleTestVirtual\ConsoleTestVirtual\obj\Debug\ConsoleTestVirtual.pdb
