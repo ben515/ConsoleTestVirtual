@@ -8,14 +8,14 @@ namespace ConsoleTestVirtual
 {
     class A
     {
-        public void Print()
+        public virtual void Print()
         {
             Console.WriteLine("This is A.print");
         }
     }
     class B :A
     {
-        public new void Print()
+        public override void Print()
         {
             Console.WriteLine("This is B.Print");
         }
